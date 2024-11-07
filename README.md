@@ -1,9 +1,7 @@
-*server-status PWN*
-=====================
+*Estado_del_servudor_PWN*
+=========================
 
-### A script that monitors and extracts requested URLs and clients connected to the service by exploiting publicly accessible Apache server-status instances.
-
-### [Blog Post: Exploiting Misconfigured Apache server-status Instances with server-status_PWN](https://mazinahmed.net/blog/exploiting-misconfigured-apache-server-status-instances/)
+### A script that monitor and execute the question in html and clients connect.
 
 ---
 
